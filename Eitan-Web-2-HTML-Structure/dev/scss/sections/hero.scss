@@ -1,33 +1,29 @@
 /* =============
     Hero
 ============= */
+
+.container > div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 16pt;
+    color: #ffeead;
+}
+
+div.container {
+    height: 320 px;
+    width: 408 px;
+}
+
 #hero{
     img {width:100%;}
 }
 
 h2{
     text-align: center;
+    color: #261830;
 }
 
 p{
     text-align: center;
-}
-
-
-
-
-.container > div {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-size: 2em;
-    color: #ffeead;
-}
-
-
-
-
-
-    div.box {
-        height: 320 px;
-        width: 408 px;}
+    color: #261830;}
