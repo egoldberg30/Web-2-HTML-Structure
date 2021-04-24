@@ -331,8 +331,8 @@
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/index.html",
-      "oF" : 2
+      "oAP" : "\/dev\/index.html",
+      "oF" : 0
     },
     "\/dev\/js\/scripts.js" : {
       "bF" : 0,
@@ -485,76 +485,6 @@
       "pg" : 0,
       "sct" : 0
     },
-    "\/dev\/scss\/sections\/catering.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/content\/catering.kit",
-      "oF" : 2,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/dev\/scss\/sections\/hero.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/content\/hero.kit",
-      "oF" : 3,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/dev\/scss\/sections\/supportus.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/content\/supportus.kit",
-      "oF" : 2,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/dev\/scss\/sections\/thegoodstuff.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/content\/thegoodstuff.kit",
-      "oF" : 2,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/dev\/scss\/sections\/whywework.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/content\/whywework.kit",
-      "oF" : 2,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
     "\/dev\/scss\/styles.scss" : {
       "aP" : 0,
       "bl" : 0,
@@ -563,8 +493,8 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/css\/styles.css",
-      "oF" : 2,
+      "oAP" : "\/dev\/scss\/styles.css",
+      "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
